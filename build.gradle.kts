@@ -17,11 +17,15 @@ repositories {
 
 micronaut {
     runtime("netty")
-    testRuntime("kotest")
+    testRuntime("junit5")
     processing {
         incremental(true)
         annotations("com.maiconpeixinho.*")
     }
+}
+
+tasks.withType<Test>{
+    useJUnitPlatform()
 }
 
 dependencies {
@@ -56,6 +60,4 @@ tasks {
             jvmTarget = "11"
         }
     }
-
-
 }
