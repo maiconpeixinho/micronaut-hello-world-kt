@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Class-Path: libs/micronaut-kotlin-runtime-2.2.0.jar libs/micronaut-valid
+ ation-2.2.3.jar libs/kotlin-stdlib-jdk8-1.4.10.jar libs/jackson-module-
+ kotlin-2.11.3.jar libs/kotlin-reflect-1.4.10.jar libs/micronaut-http-cl
+ ient-2.2.3.jar libs/micronaut-http-client-core-2.2.3.jar libs/micronaut
+ -http-server-netty-2.2.3.jar libs/micronaut-http-server-2.2.3.jar libs/
+ micronaut-runtime-2.2.3.jar libs/micronaut-http-netty-2.2.3.jar libs/mi
+ cronaut-websocket-2.2.3.jar libs/micronaut-router-2.2.3.jar libs/micron
+ aut-http-2.2.3.jar libs/micronaut-aop-2.2.3.jar libs/micronaut-buffer-n
+ etty-2.2.3.jar libs/micronaut-inject-2.2.3.jar libs/javax.annotation-ap
+ i-1.3.2.jar libs/logback-classic-1.2.3.jar libs/micronaut-core-2.2.3.ja
+ r libs/spotbugs-annotations-4.0.3.jar libs/jsr305-3.0.2.jar libs/snakey
+ aml-1.26.jar libs/slf4j-api-1.7.26.jar libs/rxjava-2.2.10.jar libs/reac
+ tive-streams-1.0.3.jar libs/validation-api-2.0.1.Final.jar libs/kotlin-
+ stdlib-jdk7-1.4.10.jar libs/kotlin-stdlib-1.4.10.jar libs/netty-handler
+ -proxy-4.1.56.Final.jar libs/netty-codec-http2-4.1.56.Final.jar libs/ne
+ tty-codec-http-4.1.56.Final.jar libs/netty-codec-socks-4.1.56.Final.jar
+  libs/netty-handler-4.1.56.Final.jar libs/netty-codec-4.1.56.Final.jar 
+ libs/netty-transport-4.1.56.Final.jar libs/netty-buffer-4.1.56.Final.ja
+ r libs/netty-resolver-4.1.56.Final.jar libs/netty-common-4.1.56.Final.j
+ ar libs/jackson-datatype-jsr310-2.11.2.jar libs/jackson-datatype-jdk8-2
+ .11.2.jar libs/jackson-databind-2.11.3.jar libs/jackson-annotations-2.1
+ 1.3.jar libs/jackson-core-2.11.3.jar libs/kotlin-stdlib-common-1.4.10.j
+ ar libs/annotations-13.0.jar libs/javax.inject-1.jar libs/config-1.4.1.
+ jar libs/logback-core-1.2.3.jar resources/
+Main-Class: com.maiconpeixinho.ApplicationKt
+
